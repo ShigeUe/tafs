@@ -7,8 +7,8 @@
 // @match        https://techacademy.jp/mentor/reports/*
 // @match        https://techacademy.jp/mentor/training/reports/*
 // @grant        none
-// @updateURL    https://raw.githubusercontent.com/ShigeUe/tafs/main/add-review-title-to-header.js
-// @downloadURL  https://raw.githubusercontent.com/ShigeUe/tafs/main/add-review-title-to-header.js
+// @updateURL    https://raw.githubusercontent.com/ShigeUe/tafs/main/add-review-title-to-header.user.js
+// @downloadURL  https://raw.githubusercontent.com/ShigeUe/tafs/main/add-review-title-to-header.user.js
 // @supportURL   https://github.com/ShigeUe/tafs
 // ==/UserScript==
 
