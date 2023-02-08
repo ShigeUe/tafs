@@ -4,3 +4,6 @@
 
 [add-review-title-to-header.user.js](https://raw.githubusercontent.com/ShigeUe/tafs/main/add-review-title-to-header.user.js)
 
+## 複数ある「はじ副」のカリキュラムにタイトルを付ける
+
+[add-title-to-curriculum.user.js](https://raw.githubusercontent.com/ShigeUe/tafs/main/add-title-to-curriculum.user.js)
