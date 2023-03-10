@@ -15,3 +15,8 @@
 [copy-the-model-code.user.js](https://raw.githubusercontent.com/ShigeUe/tafs/main/copy-the-model-code.user.js)  
 [![](https://gyazo.com/8c91bd1098dca61f18fa357c63320513.png)](https://gyazo.com/8c91bd1098dca61f18fa357c63320513)
 
+## 課題レビュー時のレビュー基準とアドバイスを閉じる
+
+[close-criteria-advice.user.js](https://raw.githubusercontent.com/ShigeUe/tafs/main/close-criteria-advice.user.js)  
+
+ちょっと長くて邪魔なんですよね😅 必要な時は自分で開きます。
