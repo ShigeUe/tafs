@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         複数ある「はじ副」のカリキュラムにタイトルを付ける
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.1.1
 // @description  Add the title to curriculum.
 // @author       ShigeUe
 // @match        https://techacademy.jp/mentor/courses/*/curriculums/*/lessons/*
