@@ -17,7 +17,8 @@
     'first-sidejob-r': 'はじめての副業R',
     'first-sidejob-r-m': 'はじめての副業 for mom',
     'first-sidejob-2': 'はじめての副業2',
-    'first-sidejob-2-rd': 'はじめての副業 R&D',    
+    'first-sidejob-2-rd': 'はじめての副業 R&D',
+    'first-sidejob-2-m': 'Web制作在宅ワークスタートfor mom',
   };
   const course_id = window.location.href.split('/').at(-3);
   const course_name = courses[course_id];
