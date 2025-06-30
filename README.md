@@ -20,3 +20,19 @@
 [close-criteria-advice.user.js](https://raw.githubusercontent.com/ShigeUe/tafs/main/close-criteria-advice.user.js)  
 
 ちょっと長くて邪魔なんですよね😅 必要な時は自分で開きます。
+
+## メンター画面のサイドバーを折りたためるようにする
+
+[collapse-the-sidebar.js](https://raw.githubusercontent.com/ShigeUe/tafs/main/collapse-the-sidebar.js)  
+[![](https://i.gyazo.com/207e4224193f3f1295811f67b9c220e4.gif)](https://gyazo.com/207e4224193f3f1295811f67b9c220e4)
+
+「評価」「管理」は見えてなくていいと思う。  
+状態をlocalStorageに保存するので、リロードしても状態を保ちます。
+
+## スケジュールを一日ずつ移動する
+
+[move-the-schedule-one-day.js](https://raw.githubusercontent.com/ShigeUe/tafs/main/move-the-schedule-one-day.js)
+
+現状だと「6/30 → 翌月に移動（7/30）→ 1日に移動」と2アクション必要です。  
+これを入れると「6/30 → 7/1」に移動できます。  
+「7/1 → 6/30」も可能です。
